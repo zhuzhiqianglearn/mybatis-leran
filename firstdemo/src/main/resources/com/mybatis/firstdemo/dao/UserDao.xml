@@ -11,10 +11,8 @@
         select *
         from t_user_two_copy where 1=1 and id=#{id}
     </select>
-   <insert id="add" parameterType="Object">
-           insert INTO  t_user_two_copy(name,age,id,sharding_id) VALUES (#{name}
-           ,#{age,javaType=DATE,jdbcType=VARCHAR}
-           ,#{id},#{sharding_id})
+   <insert id="add" parameterType="Object" statementType="PREPARED" keyProperty="id" keyColumn="id" useGeneratedKeys="true">
+           insert INTO  t_user_two_copy(name,age,id,sharding_id) VALUES (#{name},#{age},#{id},#{sharding_id})
    </insert>
     <select id="findbyidDate"  resultType="userdate" parameterType="Object">
         select *

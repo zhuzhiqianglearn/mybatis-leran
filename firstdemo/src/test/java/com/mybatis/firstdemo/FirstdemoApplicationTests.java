@@ -11,6 +11,15 @@ public class FirstdemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
+		double m=200000;
+		double l=0.03;
+		for (int i = 0; i < 10; i++) {
+			m+=150000;
+			System.out.println(m*0.03);
+		}
+
+
 	}
 
 }

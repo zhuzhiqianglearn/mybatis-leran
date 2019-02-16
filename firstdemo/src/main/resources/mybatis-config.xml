@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+	<typeAliases >
+		<typeAlias type="com.mybatis.firstdemo.dao.User" alias="UserEntity"></typeAlias>
+		<typeAlias type="com.mybatis.firstdemo.dao.UserDate" alias="userdate"></typeAlias>
+	</typeAliases>
+      <typeHandlers>
+		  <typeHandler handler="com.mybatis.firstdemo.CustomTimeStampHandler"/>
+		  <typeHandler handler="com.mybatis.firstdemo.MyselfStringHandler"/>
+	  </typeHandlers>
+	<!--<objectFactory type="com.mybatis.firstdemo.ExampleObjectFactory">-->
+		<!--<property name="someProperty" value="100"/>-->
+	<!--</objectFactory>-->
+	<!--<plugins>-->
+		<!--<plugin interceptor="com.mybatis.firstdemo.ExamplePlugin">-->
+			<!--<property name="someProperty" value="100"/>-->
+		<!--</plugin>-->
+	<!--</plugins>-->
+	<mappers>
+		<!-- 第一种方式：通过resource指定 -->
+		<!--<mapper resource="com/dy/dao/userDao.xml"/>-->
+
+		<!-- 第二种方式， 通过class指定接口，进而将接口与对应的xml文件形成映射关系
+                不过，使用这种方式必须保证 接口与mapper文件同名(不区分大小写)，
+                我这儿接口是UserDao,那么意味着mapper文件为UserDao.xml
+        <mapper class="com.dy.dao.UserDao"/>
+         -->
+
+		<!-- 第三种方式，直接指定包，自动扫描，与方法二同理
+        <package name="com.dy.dao"/>
+        -->
+		<!-- 第四种方式：通过url指定mapper文件位置
+        <mapper url="file://........"/>
+         -->
+		<!--<package name="com.mybatis.firstdemo.dao"/>-->
+		<mapper  class="com.mybatis.firstdemo.dao.UserDao"/>
+	</mappers>
+</configuration>
