@@ -18,9 +18,13 @@ public class MethodAsp {
     public Object getUser(ProceedingJoinPoint point, MethodAnnotion methodAsp) throws Throwable {
         System.out.println("--------------1------------");
         Object[] args = point.getArgs();
+        //获取request请求，并且得到参数
         HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
         String id = request.getParameter("id");
         System.out.println(id);
+        //获取注解的属性值
+        String name = methodAsp.name();
+        System.out.println(methodAsp.name());
         Object proceed = point.proceed();
         System.out.println("--------------2------------");
         return proceed;

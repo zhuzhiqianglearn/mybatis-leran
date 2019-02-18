@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 public class UserService {
     @Autowired(required = false)
     private UserDao userDao;
-    @MethodAnnotion
+    @MethodAnnotion(name = "user")
     public User getbyid(int id){
         return userDao.findbyid(id);
     }
