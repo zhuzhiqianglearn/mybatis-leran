@@ -23,8 +23,8 @@ public class FirstdemoApplication {
 	@Autowired
     private UserService userService;
 	@RequestMapping("/hello")
-	public String hello(){
-		return  userService.getbyid(9).toString();
+	public String hello(int id){
+		return  userService.getbyid(id).toString();
 //		return  "123";
 	}
 	@RequestMapping("/helloDate")

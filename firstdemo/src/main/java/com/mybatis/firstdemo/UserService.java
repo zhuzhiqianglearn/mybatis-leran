@@ -3,6 +3,7 @@ package com.mybatis.firstdemo;
 import com.mybatis.firstdemo.dao.User;
 import com.mybatis.firstdemo.dao.UserDao;
 import com.mybatis.firstdemo.dao.UserDate;
+import com.mybatis.firstdemo.zhujie.MethodAnnotion;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -10,6 +11,7 @@ import org.springframework.stereotype.Service;
 public class UserService {
     @Autowired(required = false)
     private UserDao userDao;
+    @MethodAnnotion
     public User getbyid(int id){
         return userDao.findbyid(id);
     }
