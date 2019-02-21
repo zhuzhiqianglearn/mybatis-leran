@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c315b3-e5ff-4bdf-b107-11ebf3f2ab81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java" afterPath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/firstdemo/pom.xml" afterPath="$PROJECT_DIR$/firstdemo/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java" afterPath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java" />
+      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java" afterPath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserService.java" />
       <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java" afterPath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java" />
-      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java" afterPath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java" />
+      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/dao/UserDao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/firstdemo/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/firstdemo/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/firstdemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,35 +20,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TestAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/TestAnnotation.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2400">
-              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="1486">
+              <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstdemo/pom.xml">
+      <file leaf-file-name="CustomTimeStampHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/CustomTimeStampHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="-865">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding>
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -52,63 +43,39 @@
       <file leaf-file-name="MethodAsp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractHandlerMethodAdapter.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="1056">
+              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestMappingHandlerAdapter.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <file leaf-file-name="TestAnnotation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/TestAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="566" column="0" lean-forward="false" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvocableHandlerMethod.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <file leaf-file-name="Check.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Check.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstdemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java">
+      <file leaf-file-name="SenderServiceImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/SenderServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodAnnotion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +85,36 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1296">
               <caret line="27" column="0" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserTwoService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserTwoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodAnnotion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -153,6 +150,11 @@
       <find>doQuery</find>
       <find>query</find>
       <find>modelAttributeCache</find>
+      <find>Autowired</find>
+      <find>inject</find>
+      <find>AutowiredFieldElement</find>
+      <find>221</find>
+      <find>116</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,7 +170,6 @@
       <list>
         <option value="$PROJECT_DIR$/firstdemo/src/main/resources/log4j2.yml" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/firstdemo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/MyStringTypeHandler.java" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/resources/mapper/UserDaoMapper.xml" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/CustomTimeStampHandler.java" />
@@ -188,11 +189,20 @@
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/TestAnnotation.java" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Check.java" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Test.java" />
-        <option value="$PROJECT_DIR$/firstdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java" />
-        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java" />
         <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserTwoService.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/test/java/com/mybatis/firstdemo/Person.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/test/java/com/mybatis/firstdemo/TetS.java" />
+        <option value="$PROJECT_DIR$/firstdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/SenderService.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/SenderServiceImp.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/config/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserTwoService.java" />
       </list>
     </option>
   </component>
@@ -219,6 +229,12 @@
           <item name="firstdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="firstdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -330,75 +346,41 @@
               <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
               <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
               <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-leran" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-leran" type="462c0819:PsiDirectoryNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="firstdemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,7 +390,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="C:/svncode/BizInterface" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../collect30901" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -419,19 +401,20 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="SearchEverywhereHistoryKey" value="Class&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class&#10;runnabl&#9;PSI&#9;JAVA://java.lang.Runnable&#10;annotation &#9;PSI&#9;JAVA://java.text.Annotation&#10;RequestMa&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter&#10;hander&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver&#10;PreparedStatementHandler&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class&#10;doQuery&#9;PSI&#9;JAVA://org.apache.ibatis.executor.BaseExecutor#doQuery&#10;getCachedObjectForFactoryBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.FactoryBeanRegistrySupport#getCachedObjectForFactoryBean&#10;MapperRegistry&#9;PSI&#9;JAVA://org.apache.ibatis.binding.MapperRegistry&#10;Defaultsq&#9;PSI&#9;JAVA://org.apache.ibatis.session.defaults.DefaultSqlSessionFactory&#10;getMapper&#9;PSI&#9;JAVA://com.mybatis.firstdemo.config.DataBaseConfig#getMapperScannerConfigurer&#10;MapperProxy&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/binding/MapperProxy.class&#10;BooleanTypeHandler&#9;PSI&#9;JAVA://org.apache.ibatis.type.BooleanTypeHandler&#10;typeAliasesElement&#9;PSI&#9;JAVA://org.apache.ibatis.builder.xml.XMLConfigBuilder#typeAliasesElement&#10;SqlSessionFactoryBuilder&#9;PSI&#9;JAVA://org.apache.ibatis.session.SqlSessionFactoryBuilder" />
+    <property name="SearchEverywhereHistoryKey" value="sqlfac&#9;PSI&#9;JAVA://org.mybatis.spring.SqlSessionFactoryBean&#10;AutowiredFieldElement&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.AutowiredFieldElement&#10;AutowiredAnnotationBeanPostProcessor&#9;PSI&#9;JAVA://org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor&#10;Class&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class&#10;runnabl&#9;PSI&#9;JAVA://java.lang.Runnable&#10;annotation &#9;PSI&#9;JAVA://java.text.Annotation&#10;RequestMa&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter&#10;hander&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver&#10;PreparedStatementHandler&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class&#10;doQuery&#9;PSI&#9;JAVA://org.apache.ibatis.executor.BaseExecutor#doQuery&#10;getCachedObjectForFactoryBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.FactoryBeanRegistrySupport#getCachedObjectForFactoryBean&#10;MapperRegistry&#9;PSI&#9;JAVA://org.apache.ibatis.binding.MapperRegistry&#10;Defaultsq&#9;PSI&#9;JAVA://org.apache.ibatis.session.defaults.DefaultSqlSessionFactory&#10;getMapper&#9;PSI&#9;JAVA://com.mybatis.firstdemo.config.DataBaseConfig#getMapperScannerConfigurer&#10;MapperProxy&#9;FILE&#9;jar://C:/Users/zhuzh/.m2/repository/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/binding/MapperProxy.class&#10;BooleanTypeHandler&#9;PSI&#9;JAVA://org.apache.ibatis.type.BooleanTypeHandler&#10;typeAliasesElement&#9;PSI&#9;JAVA://org.apache.ibatis.builder.xml.XMLConfigBuilder#typeAliasesElement&#10;SqlSessionFactoryBuilder&#9;PSI&#9;JAVA://org.apache.ibatis.session.SqlSessionFactoryBuilder" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.mybatis.firstdemo" />
+      <recent name="com.mybatis.firstdemo.config" />
       <recent name="com.mybatis.firstdemo.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\target\classes\com\mybatis\firstdemo\dao" />
       <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\src\main\resources\com\mybatis\firstdemo\dao" />
       <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\src\main\java\com\mybatis\firstdemo\dao" />
       <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\src\main\resources\com.mybatis.firstdemo.dao" />
       <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\src\main\resources\mapper" />
-      <recent name="C:\ideasvn\springcloud学习\github-3530428398\mybatis-leran\firstdemo\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -473,6 +456,25 @@
       <module name="firstdemo" />
       <envs />
     </configuration>
+    <configuration name="TetS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mybatis.firstdemo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mybatis.firstdemo.TetS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="firstdemo" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -490,7 +492,7 @@
     <configuration name="FirstdemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.mybatis.firstdemo.*" />
+          <option name="PATTERN" value="com.mybatis.firstdemo.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -578,15 +580,17 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.FirstdemoApplication" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.FirstdemoApplicationTests.contextLoads" />
       <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TetS" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FirstdemoApplicationTests.contextLoads" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.TetS" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FirstdemoApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +611,7 @@
       <workItem from="1549963437417" duration="33075000" />
       <workItem from="1550296024112" duration="10545000" />
       <workItem from="1550385454978" duration="1211000" />
-      <workItem from="1550455747691" duration="4021000" />
+      <workItem from="1550455747691" duration="25189000" />
     </task>
     <task id="LOCAL-00001" summary="去掉spring注解">
       <created>1549878609809</created>
@@ -634,22 +638,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61321000" />
+    <option name="totallyTimeSpent" value="82489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6026786" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.036480688" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17542918" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5011161" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66952056" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,20 +663,19 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6640625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27628756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23497854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1276824" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -694,7 +699,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java</url>
-          <line>46</line>
+          <line>58</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -783,8 +788,8 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserService.java</url>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -832,7 +837,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java</url>
-          <line>26</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
@@ -874,7 +879,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java</url>
-          <line>25</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
@@ -884,344 +889,27 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class</url>
+          <line>542</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/SenderService.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="37" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/binding/MapperProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/binding/MapperProxyFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/binding/MapperRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.0/mybatis-spring-2.0.0.jar!/org/mybatis/spring/mapper/MapperFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="820" column="0" lean-forward="false" selection-start-line="820" selection-start-column="0" selection-end-line="820" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="198" column="0" lean-forward="true" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/BaseExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.0/mybatis-spring-2.0.0.jar!/org/mybatis/spring/SqlSessionTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="66" column="16" lean-forward="true" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="45" column="30" lean-forward="false" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/CachingExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1776">
-          <caret line="59" column="71" lean-forward="false" selection-start-line="59" selection-start-column="71" selection-end-line="59" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/statement/StatementHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/plugin/InterceptorChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/SimpleExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
-          <folding>
-            <marker date="1549856970604" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1549856970604" expanded="false" signature="150:703" ph="..." />
-            <marker date="1549856970604" expanded="true" signature="835:846" ph=" { " />
-            <marker date="1549856970604" expanded="true" signature="880:886" ph=" }" />
-            <marker date="1549856970604" expanded="true" signature="970:1462" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="1622:2117" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="2259:2623" ph="{...}" />
-            <marker date="1549856970604" expanded="false" signature="2691:2702" ph=" { " />
-            <marker date="1549856970604" expanded="false" signature="2733:2739" ph=" }" />
-            <marker date="1549856970604" expanded="true" signature="2844:3059" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/session/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16608">
-          <caret line="535" column="58" lean-forward="false" selection-start-line="535" selection-start-column="58" selection-end-line="535" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2064">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <marker date="1549856970604" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1549856970604" expanded="false" signature="160:727" ph="..." />
-            <marker date="1549856970604" expanded="true" signature="973:1069" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="1134:1523" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="1588:1679" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="1780:1929" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="2009:2164" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="2254:2837" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="2909:2991" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20016">
-          <caret line="468" column="0" lean-forward="false" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="0" />
-          <folding>
-            <marker date="1549856970604" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1549856970604" expanded="false" signature="160:2217" ph="..." />
-            <marker date="1549856970604" expanded="true" signature="3552:4092" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="4175:5157" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="5298:6206" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="6285:7932" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="8018:8675" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="8760:9106" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="9170:9657" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="9705:9861" ph="{...}" />
-            <marker date="1549856970604" expanded="false" signature="9911:9922" ph=" { " />
-            <marker date="1549856970604" expanded="false" signature="9955:9961" ph=" }" />
-            <marker date="1549856970604" expanded="true" signature="10046:10339" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="10496:11244" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="11326:11426" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="11605:11982" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="12021:12395" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="12437:12875" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="13073:13689" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="13876:14085" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="14215:14323" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="14414:14509" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="14592:14881" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="14998:15931" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="16021:16367" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="16546:18415" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="18603:19203" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="19404:22080" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="22232:23320" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="23433:24118" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="24253:25197" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="24724:24771" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="25341:25911" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="26063:27193" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="27383:28473" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="28689:30241" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="30441:31422" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="31644:32381" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="32464:32955" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="33067:33517" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="33650:34272" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="34413:35430" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="35621:37139" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="37299:37521" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="37676:38075" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="38233:39156" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="39228:39449" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="39578:40408" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="40535:40786" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="40855:41002" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="41200:42931" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="43092:44916" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="44988:45056" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="45233:47547" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="47634:48064" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="48203:49207" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="49331:49512" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="49632:50327" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="50402:50902" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="50984:51219" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="51409:52878" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="53034:54234" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="54333:54743" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="54843:55244" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="55360:56333" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="56428:56646" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="56699:57162" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="56989:57156" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="57205:57343" ph="{...}" />
-            <marker date="1549856970604" expanded="true" signature="57326:57337" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/type/BaseTypeHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1968">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/MyselfStringHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/HandlerExceptionResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk1.8/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/jdk1.8/jdk1.8.0_121/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="444" column="0" lean-forward="false" selection-start-line="444" selection-start-column="0" selection-end-line="444" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/support/WebContentGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="212" column="0" lean-forward="false" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.14/tomcat-embed-core-9.0.14.jar!/org/apache/coyote/AbstractProcessorLight.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.14/tomcat-embed-core-9.0.14.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="507" column="0" lean-forward="false" selection-start-line="507" selection-start-column="0" selection-end-line="507" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.14/tomcat-embed-core-9.0.14.jar!/org/apache/coyote/AbstractProtocol.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24020">
-          <caret line="667" column="0" lean-forward="false" selection-start-line="667" selection-start-column="0" selection-end-line="667" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -1269,32 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Check.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2736">
-          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-            <element signature="e#510#511#0" expanded="false" />
-            <element signature="e#579#580#0" expanded="false" />
-            <element signature="e#599#600#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#709#710#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firstdemo/src/test/java/com/mybatis/firstdemo/FirstdemoApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -1317,6 +979,902 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="566" column="0" lean-forward="false" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+          <folding>
+            <marker date="1547351540552" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351540552" expanded="false" signature="177:5125" ph="..." />
+            <marker date="1547351540552" expanded="true" signature="5325:5410" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="5487:5646" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="7920:8506" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="8616:8681" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="8772:8783" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="8819:8825" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="8929:9199" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="9285:9386" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="9500:9800" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="9896:10017" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="10133:10202" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="10298:10352" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="10462:10743" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="10833:10937" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="11040:11107" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="11187:11198" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="11232:11238" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="11338:11413" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="11501:11560" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="11625:11636" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="11666:11672" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="11764:11893" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="11991:12122" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="12220:12287" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="12362:12373" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="12407:12413" ph=" }" />
+            <marker date="1547351540552" expanded="false" signature="12478:12489" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="12522:12528" ph=" }" />
+            <marker date="1547351540552" expanded="false" signature="12582:12593" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="12628:12634" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="12726:12862" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="12966:13120" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="13214:13285" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="13350:13361" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="13397:13403" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="13491:13572" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="13660:13727" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="13833:13936" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="14008:14073" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="14167:14238" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="14296:14445" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="14515:14526" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="14550:14556" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="14595:15376" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="15423:17952" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="18010:18327" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="18407:20653" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="20743:21867" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="21951:23631" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="23700:23711" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="23723:23729" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="23877:24871" ph="{...}" />
+            <marker date="1547351540552" expanded="false" signature="24972:24983" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="24994:25000" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="25096:25909" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="26076:28917" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="28218:28397" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="29021:29093" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="29201:30556" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="29781:30188" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="30678:31064" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="31166:32365" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="31633:32027" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="32453:32918" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="33047:33154" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="33320:34237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1547351540552" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351540552" expanded="false" signature="166:563" ph="..." />
+            <marker date="1547351540552" expanded="false" signature="759:770" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="783:789" ph=" }" />
+            <marker date="1547351540552" expanded="false" signature="826:837" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="856:862" ph=" }" />
+            <marker date="1547351540552" expanded="false" signature="889:900" ph=" { " />
+            <marker date="1547351540552" expanded="false" signature="918:924" ph=" }" />
+            <marker date="1547351540552" expanded="true" signature="976:1081" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="1295:1381" ph="{...}" />
+            <marker date="1547351540552" expanded="true" signature="1620:1705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <marker date="1547351585982" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351585982" expanded="false" signature="162:754" ph="..." />
+            <marker date="1547351585982" expanded="false" signature="1216:1227" ph=" { " />
+            <marker date="1547351585982" expanded="false" signature="1248:1254" ph=" }" />
+            <marker date="1547351585982" expanded="false" signature="1317:1328" ph=" { " />
+            <marker date="1547351585982" expanded="false" signature="1348:1354" ph=" }" />
+            <marker date="1547351585982" expanded="true" signature="1476:1532" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="1611:1670" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="1780:1831" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="1925:1996" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="2160:2419" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="2581:4058" ph="{...}" />
+            <marker date="1547351585982" expanded="true" signature="4137:5229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/JoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1541125600604" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1541125600604" expanded="true" signature="1191:1198" ph="{...}" />
+            <marker date="1541125600604" expanded="true" signature="1232:1460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1541125600604" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <marker date="1547351578848" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351578848" expanded="false" signature="168:361" ph="..." />
+            <marker date="1547351578848" expanded="true" signature="363:536" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/config/DependencyDescriptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding>
+            <marker date="1547351578848" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351578848" expanded="false" signature="164:1153" ph="..." />
+            <marker date="1547351578848" expanded="true" signature="1842:1896" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="1996:2545" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="2609:2620" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="2648:2654" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="2734:2955" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="3020:3528" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="3562:4021" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4067:4399" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="4429:4440" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="4458:4464" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="4593:4681" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4687:4705" ph="/**...*/" />
+            <marker date="1547351578848" expanded="true" signature="4710:4735" ph="@{...}" />
+            <marker date="1547351578848" expanded="true" signature="4843:4931" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5028:5056" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5180:5233" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5274:5458" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5521:5760" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5808:6200" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="6248:6642" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="6685:6696" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="6709:6715" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="6768:6929" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="6816:6922" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="6867:6886" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="6898:6912" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="7033:7181" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="7235:7350" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="7392:8474" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="8516:8936" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="8963:8974" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="9056:9062" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="9158:10060" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="10102:10385" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="10137:10148" ph="{}" />
+            <marker date="1547351578848" expanded="true" signature="10204:10379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/target/classes/com/mybatis/firstdemo/dao/IvrCallRecordController(1).class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="642" column="48" lean-forward="false" selection-start-line="642" selection-start-column="45" selection-end-line="642" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/target/classes/com/mybatis/firstdemo/dao/IvrCallRecordController (2).class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="777" column="33" lean-forward="false" selection-start-line="777" selection-start-column="30" selection-end-line="777" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/target/classes/com/mybatis/firstdemo/dao/IvrCallRecordController (4).class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="642" column="48" lean-forward="false" selection-start-line="642" selection-start-column="45" selection-end-line="642" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/target/classes/com/mybatis/firstdemo/dao/IvrCallRecordController (3).class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="642" column="48" lean-forward="false" selection-start-line="642" selection-start-column="45" selection-end-line="642" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/test/java/com/mybatis/firstdemo/TetS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#98#99#0" expanded="false" />
+            <element signature="e#122#123#0" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.0/mybatis-spring-2.0.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <marker date="1549856933568" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1549856933568" expanded="false" signature="142:1874" ph="..." />
+            <marker date="1549856933568" expanded="true" signature="3094:3101" ph="{}" />
+            <marker date="1549856933568" expanded="false" signature="3164:3175" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3210:3216" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="3301:3366" ph="{...}" />
+            <marker date="1549856933568" expanded="false" signature="3421:3432" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3463:3469" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="3548:3609" ph="{...}" />
+            <marker date="1549856933568" expanded="false" signature="3651:3662" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3678:3684" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="3734:3745" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3760:3766" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="3795:3806" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3824:3830" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="3869:3880" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3899:3905" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="3956:3967" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="3990:3996" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4062:4073" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4118:4124" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="4197:4262" ph="{...}" />
+            <marker date="1549856933568" expanded="false" signature="4330:4341" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4388:4394" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4458:4469" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4502:4508" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4606:4612" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4659:4670" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4695:4701" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4761:4772" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4809:4815" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4878:4889" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="4924:4930" ph=" }" />
+            <marker date="1549856933568" expanded="false" signature="4994:5005" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="5044:5050" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="5135:5210" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="5265:5510" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="5607:5680" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="5759:5820" ph="{...}" />
+            <marker date="1549856933568" expanded="false" signature="5872:5883" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="5914:5920" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="5976:6454" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="6532:12537" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="7335:7472" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="8231:8555" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="8437:8539" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="8686:8916" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="8808:8900" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="9036:9234" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="9133:9218" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="9497:9744" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="9620:9728" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="9879:10112" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="10000:10096" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="10666:10772" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="12143:12245" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="12328:12445" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="12597:12739" ph="{...}" />
+            <marker date="1549856933568" expanded="true" signature="12803:12919" ph="{...}" />
+            <marker date="1549856933568" expanded="false" signature="12953:12964" ph=" { " />
+            <marker date="1549856933568" expanded="false" signature="12976:12982" ph=" }" />
+            <marker date="1549856933568" expanded="true" signature="13043:13213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="87" column="32" lean-forward="false" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+          <folding>
+            <marker date="1549856970604" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1549856970604" expanded="false" signature="149:474" ph="..." />
+            <marker date="1549856970604" expanded="true" signature="554:561" ph="{}" />
+            <marker date="1549856970604" expanded="false" signature="612:623" ph=" { " />
+            <marker date="1549856970604" expanded="false" signature="689:695" ph=" }" />
+            <marker date="1549856970604" expanded="true" signature="767:848" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="923:999" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1094:1633" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1695:1787" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1869:1960" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2045:2131" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2236:2785" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2843:2854" ph=" { " />
+            <marker date="1549856970604" expanded="true" signature="2898:2904" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="65" column="23" lean-forward="false" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <marker date="1549856970604" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1549856970604" expanded="false" signature="158:831" ph="..." />
+            <marker date="1549856970604" expanded="true" signature="1014:1025" ph=" { " />
+            <marker date="1549856970604" expanded="true" signature="1060:1066" ph=" }" />
+            <marker date="1549856970604" expanded="true" signature="1104:1243" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1299:1443" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1502:1606" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1675:1788" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="1880:1958" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2037:2146" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2205:2316" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="2398:2474" ph="{...}" />
+            <marker date="1549856970604" expanded="false" signature="2519:2530" ph=" { " />
+            <marker date="1549856970604" expanded="false" signature="2556:2562" ph=" }" />
+            <marker date="1549856970604" expanded="true" signature="2689:3491" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="3588:4495" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="4590:4774" ph="{...}" />
+            <marker date="1549856970604" expanded="true" signature="4826:4990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/test/java/com/mybatis/firstdemo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2623">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#530#531#0" expanded="false" />
+            <element signature="e#570#571#0" expanded="false" />
+            <element signature="e#602#603#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#694#695#0" expanded="false" />
+            <element signature="e#851#852#0" expanded="false" />
+            <element signature="e#886#887#0" expanded="false" />
+            <element signature="e#1035#1036#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1214#1215#0" expanded="false" />
+            <element signature="e#1248#1249#0" expanded="false" />
+            <element signature="e#1393#1394#0" expanded="false" />
+            <element signature="e#1448#1449#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.3.RELEASE/spring-rabbit-2.1.3.RELEASE.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="60" column="72" lean-forward="false" selection-start-line="60" selection-start-column="72" selection-end-line="60" selection-end-column="72" />
+          <folding>
+            <marker date="1547351589445" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351589445" expanded="false" signature="166:2323" ph="..." />
+            <marker date="1547351589445" expanded="true" signature="4674:4685" ph=" { " />
+            <marker date="1547351589445" expanded="true" signature="4704:4710" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="4774:4785" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="4806:4812" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="4859:4870" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="4895:4901" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="4979:6468" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="6515:7821" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="7901:7912" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="7949:7955" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="8065:10196" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="10264:10438" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="10498:10792" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="10830:10841" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="10870:10876" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="10938:10949" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="10971:10977" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="11054:11397" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="11438:11449" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="11481:11487" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="11553:11866" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="11924:12212" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="12254:12265" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="12295:12301" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="12342:12353" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="12382:12388" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="12452:12658" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="12724:13053" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="13131:13478" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="13526:13537" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="13573:13579" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="13652:13882" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="13973:14282" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="14321:14759" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="14800:15068" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="15155:15336" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="15405:15564" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="15631:15993" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="16116:17280" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="17385:18299" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="18405:18970" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="19032:19767" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="19917:20557" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="20734:21526" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="21656:23054" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="23186:23941" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="24011:25168" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="25215:27243" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="27354:28078" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="28182:29343" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="29452:29836" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="29870:30134" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="30170:30782" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="30426:30470" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="30540:30585" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="30918:31157" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="31230:31361" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="31434:31782" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="31849:35678" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="35771:35908" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="36009:36460" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="36501:36864" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="36918:37721" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="37752:37962" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="38053:39070" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="38091:38102" ph="{}" />
+            <marker date="1547351589445" expanded="true" signature="38169:39064" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="39147:44179" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="39445:39460" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="39481:39491" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="39558:39725" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="39787:39880" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="39947:40113" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="40186:40365" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="40395:41899" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="41948:42371" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="42403:43206" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="43254:43420" ph="{...}" />
+            <marker date="1547351589445" expanded="false" signature="43453:43468" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="43519:43529" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="43578:43593" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="43612:43622" ph=" }" />
+            <marker date="1547351589445" expanded="false" signature="43683:43698" ph=" { " />
+            <marker date="1547351589445" expanded="false" signature="43731:43741" ph=" }" />
+            <marker date="1547351589445" expanded="true" signature="43777:43896" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="43931:44173" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="44265:57097" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="44990:45434" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="45526:50602" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="50664:51628" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="51721:52562" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="52619:53120" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="52906:53027" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="53174:54133" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="54175:54540" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="54616:55753" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="55789:57091" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="55975:57079" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="57132:57217" ph="{...}" />
+            <marker date="1547351589445" expanded="true" signature="57200:57211" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.1.3.RELEASE/spring-amqp-2.1.3.RELEASE.jar!/org/springframework/amqp/core/BindingBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="55" lean-forward="false" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+          <folding>
+            <marker date="1547351524674" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351524674" expanded="false" signature="153:325" ph="..." />
+            <marker date="1547351524674" expanded="true" signature="392:399" ph="{}" />
+            <marker date="1547351524674" expanded="true" signature="474:578" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="659:769" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="843:1119" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="1254:2033" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="1374:1437" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="1486:1626" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="1680:1835" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="1876:2027" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="2086:2865" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="2339:2434" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="2488:2647" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="2681:2859" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3000:3560" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3115:3178" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3261:3356" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3444:3554" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3693:4278" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3811:3874" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="3923:4063" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="4117:4272" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="4363:4684" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="4585:4678" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="4745:8782" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="4985:5078" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="5198:5323" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="5449:5581" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="5718:5851" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="5977:6108" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="6245:6377" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="6439:7088" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="6591:6812" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="6849:7078" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="7151:7820" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="7296:7544" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="7581:7810" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="7890:8776" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="7996:8104" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="8142:8398" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="8449:8766" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="8836:9987" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="8987:9058" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="9111:9215" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="9305:9400" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="9495:9596" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="9689:9789" ph="{...}" />
+            <marker date="1547351524674" expanded="true" signature="9879:9981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/RabbitMqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.4.3/amqp-client-5.4.3.jar!/com/rabbitmq/client/impl/AMQConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="277" column="76" lean-forward="false" selection-start-line="277" selection-start-column="76" selection-end-line="277" selection-end-column="76" />
+          <folding>
+            <marker date="1546855357662" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1546855357662" expanded="false" signature="148:2456" ph="..." />
+            <marker date="1546855357662" expanded="true" signature="4711:5697" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="5757:5897" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="5961:6077" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="6114:6125" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6164:6170" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="6212:6223" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6267:6273" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="6299:6310" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6346:6352" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="6383:6394" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6435:6441" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="6484:6495" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6521:6527" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="6581:6592" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="6622:6628" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="6707:6778" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="6892:9392" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="8737:8920" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="8813:8906" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="9263:9311" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="9443:9601" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="9648:9772" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="9835:14434" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="14536:14733" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="14809:14991" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="15025:15315" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="15395:15469" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="15515:15526" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="15558:15564" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="15597:15706" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="15736:15747" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="15769:15775" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="15806:15817" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="15840:15846" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="15892:16144" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="16207:16218" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16253:16259" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="16304:16315" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16341:16347" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="16401:16412" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16455:16461" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="16504:16515" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16576:16582" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="16633:16644" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16674:16680" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="16731:16742" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="16789:16795" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="16868:17184" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="17240:17541" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="17598:17695" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="17740:17907" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="17985:18119" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="18169:18650" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="18682:18693" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="18714:18720" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="18769:18780" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="18817:18823" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="18884:19774" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="19817:20190" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="20236:20360" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="20407:20756" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="20792:21110" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="21162:21336" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="21379:21390" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="21443:21449" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="21498:21509" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="21544:21550" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="21603:21915" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="21989:22000" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="22039:22045" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="22123:22181" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="22252:22628" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="22701:24530" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="24592:25400" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="25529:25698" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="25833:26320" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="26383:26511" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="26556:26587" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="26643:26690" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="26769:26825" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="26917:27008" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="27033:27044" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="27059:27065" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="27124:27135" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="27175:27181" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="27217:27228" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="27259:27265" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="27338:27508" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="27636:27730" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="27886:29492" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="28356:28478" ph="transformReply(command) → {" />
+            <marker date="1546855357662" expanded="false" signature="28611:28638" ph="}" />
+            <marker date="1546855357662" expanded="true" signature="29523:29770" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="29807:29818" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="29895:29901" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="29963:29974" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30010:30016" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="30146:30570" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="30212:30481" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="30286:30349" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="30412:30471" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="30638:30649" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30695:30701" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="30742:30753" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30783:30789" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="30816:30827" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30842:30848" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="30882:30893" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30906:30912" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="30951:30962" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="30992:30998" ph=" }" />
+            <marker date="1546855357662" expanded="false" signature="31045:31056" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="31102:31108" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="31164:31814" ph="{...}" />
+            <marker date="1546855357662" expanded="false" signature="31279:31294" ph=" { " />
+            <marker date="1546855357662" expanded="false" signature="31311:31321" ph=" }" />
+            <marker date="1546855357662" expanded="true" signature="31349:31808" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="31863:32639" ph="{...}" />
+            <marker date="1546855357662" expanded="true" signature="31892:31903" ph="{}" />
+            <marker date="1546855357662" expanded="true" signature="31931:32633" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/config/DataBaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/target/classes/com/mybatis/firstdemo/config/RabbitMqConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1602">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE.jar!/org/springframework/context/annotation/Scope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+          <folding>
+            <marker date="1547351578848" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547351578848" expanded="false" signature="168:2593" ph="..." />
+            <marker date="1547351578848" expanded="true" signature="3528:4000" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4098:4315" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4420:4645" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4718:4785" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="4861:4930" ph="{...}" />
+            <marker date="1547351578848" expanded="false" signature="4967:4978" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="4997:5003" ph=" }" />
+            <marker date="1547351578848" expanded="false" signature="5030:5041" ph=" { " />
+            <marker date="1547351578848" expanded="false" signature="5059:5065" ph=" }" />
+            <marker date="1547351578848" expanded="true" signature="5123:5454" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5575:5743" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="5798:5911" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="6052:13116" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="6202:7023" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="13216:13633" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="13639:13657" ph="/**...*/" />
+            <marker date="1547351578848" expanded="true" signature="13802:13873" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="13950:14436" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="14554:15400" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="15472:18034" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="15717:16381" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="16456:17800" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="18128:18617" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="18691:18836" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="18931:19244" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="19345:19984" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="20102:20506" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="20591:21073" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="20793:20917" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="20982:21067" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="21140:26196" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="21411:21491" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="21610:25568" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="25663:26190" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="26262:29119" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="26490:26591" ph="{...}" />
+            <marker date="1547351578848" expanded="true" signature="26710:29113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="80" column="102" lean-forward="false" selection-start-line="80" selection-start-column="102" selection-end-line="80" selection-end-column="102" />
+          <folding>
+            <element signature="e#1821#1822#0" expanded="false" />
+            <element signature="e#1914#1915#0" expanded="false" />
+            <element signature="e#1976#1977#0" expanded="false" />
+            <element signature="e#2058#2059#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/config/RabbitMqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#1934#1935#0" expanded="false" />
+            <element signature="e#2031#2032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/MyselfStringHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/resources/com/mybatis/firstdemo/dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1550130376872" expanded="true" signature="541:601" ph="select * fro... t_user_two_copy" />
+            <marker date="1550130376872" expanded="true" signature="752:850" ph="insert INTO t_user_two_copy" />
+            <marker date="1550130376872" expanded="true" signature="949:1009" ph="select * fro... t_user_two_copy" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/resources/mybatis-mapper文件插入修改参数说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2592">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/dao/UserDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1824">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/ExampleObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/ExamplePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/SenderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/SenderServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/service/UserTwoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/注解使用">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
@@ -1325,82 +1883,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="432">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/TestAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2400">
+        <state relative-caret-position="48">
           <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="566" column="0" lean-forward="false" selection-start-line="566" selection-start-column="0" selection-end-line="566" selection-end-column="0" />
+        <state relative-caret-position="1486">
+          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/CustomTimeStampHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="-865">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/FirstdemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/zhujie/MethodAnnotion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/firstdemo/src/main/java/com/mybatis/firstdemo/asp/MethodAsp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1056">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.mybatis.firstdemo;
+package com.mybatis.firstdemo.service;
 
 import com.mybatis.firstdemo.dao.User;
 import com.mybatis.firstdemo.dao.UserDao;
@@ -8,9 +8,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
-public class UserService {
+public class UserTwoService {
     @Autowired(required = false)
     private UserDao userDao;
+    @Autowired
+    private UserService userService;
+
+//    public UserTwoService(UserService userService) {
+//        this.userService = userService;
+//    }
+
     @MethodAnnotion(name = "user")
     public User getbyid(int id){
         return userDao.findbyid(id);

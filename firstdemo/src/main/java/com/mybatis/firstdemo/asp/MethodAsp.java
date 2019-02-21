@@ -22,11 +22,14 @@ public class MethodAsp {
         HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
         String id = request.getParameter("id");
         System.out.println(id);
+        String requestURI = request.getRequestURI();
+        System.out.println(requestURI);
         //获取注解的属性值
         String name = methodAsp.name();
         System.out.println(methodAsp.name());
         Object proceed = point.proceed();
         System.out.println("--------------2------------");
         return proceed;
+
     }
 }
