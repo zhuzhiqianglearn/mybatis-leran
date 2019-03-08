@@ -1,9 +1,12 @@
 package com.mybatis.firstdemo;
 
+import com.mybatis.firstdemo.dao.ClientTemplate;
 import com.mybatis.firstdemo.dao.User;
 import com.mybatis.firstdemo.dao.UserDate;
+import com.mybatis.firstdemo.onetomany.Country;
 import com.mybatis.firstdemo.service.SenderServiceImp;
 import com.mybatis.firstdemo.service.UserService;
+import com.mybatis.firstdemo.service.UserTwoService;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -25,6 +28,8 @@ public class FirstdemoApplication {
 
 	@Autowired
     private UserService userService;
+	@Autowired
+    private UserTwoService userTwoService;
 
 	@Autowired
 	private RabbitTemplate rabbitTemplate;
@@ -83,6 +88,17 @@ public class FirstdemoApplication {
 				}
 			}).start();
 		}
+	}
+	@RequestMapping("/onetomany")
+	public void aaaaaa(){
+		Country byIds = userTwoService.getByIds(1);
+		System.out.println(11111);
+	}
+	@RequestMapping("/add11")
+	public void add11(){
+		ClientTemplate clientTemplate=new ClientTemplate();
+		clientTemplate.setNickName("ceshi");
+		userTwoService.add11(clientTemplate);
 	}
 }
 

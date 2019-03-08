@@ -27,13 +27,13 @@ public class DataBaseConfig {
 //     druidDataSource.setUsername("zhaoqingkai");
 //     druidDataSource.setPassword("zhaoqingkai123456");
        //本地环境
-//     druidDataSource.setUrl("jdbc:mysql://localhost:3306/mybatislearn?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8");
-//     druidDataSource.setUsername("root");
-//     druidDataSource.setPassword("root");
+     druidDataSource.setUrl("jdbc:mysql://localhost:3306/dachui?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8");
+     druidDataSource.setUsername("root");
+     druidDataSource.setPassword("root");
        //mycat环境
-        druidDataSource.setUrl("jdbc:mysql://localhost:8066/TESTDB?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8");
-    druidDataSource.setUsername("root");
-   druidDataSource.setPassword("123456");
+//        druidDataSource.setUrl("jdbc:mysql://localhost:8066/TESTDB?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8");
+//    druidDataSource.setUsername("root");
+//   druidDataSource.setPassword("123456");
      return druidDataSource;
     }
     //配置事务

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mybatis.firstdemo.dao.ICountryDao" >
+    <resultMap type="com.mybatis.firstdemo.onetomany.Country" id="countryMapper">
+        <id column="cid" property="cid"/>
+        <result column="cname" property="cname"/>
+        <collection property="peoples" ofType="com.mybatis.firstdemo.onetomany.People">
+            <id column="pid" property="pid"/>
+            <result column="pname" property="pname"/>
+        </collection>
+    </resultMap>
+    <select id="selectById" resultMap="countryMapper">
+        select cid,cname,pid,pname
+        from country,people
+        where cid=countryId and cid = #{id}
+    </select>
+    <insert id="add11" parameterType="Object" >
+        insert into client_template (client_id,nick_name, chinese_name,field_name,field_value,type,status,ip_address,create_id,create_name,create_time)
+          values
+         (#{clientId, jdbcType=INTEGER},#{nickName, jdbcType=VARCHAR},#{chineseName, jdbcType=VARCHAR},#{fieldName, jdbcType=VARCHAR},#{fieldValue, jdbcType=VARCHAR},1,#{status, jdbcType=INTEGER},#{ipAddress, jdbcType=VARCHAR},#{createId, jdbcType=INTEGER},#{createName, jdbcType=VARCHAR},#{createTime, jdbcType=TIMESTAMP}),
+         (#{clientId, jdbcType=INTEGER},#{nickName, jdbcType=VARCHAR},#{chineseName, jdbcType=VARCHAR},#{fieldName, jdbcType=VARCHAR},#{fieldValue, jdbcType=VARCHAR},2,#{status, jdbcType=INTEGER},#{ipAddress, jdbcType=VARCHAR},#{createId, jdbcType=INTEGER},#{createName, jdbcType=VARCHAR},#{createTime, jdbcType=TIMESTAMP}),
+         (#{clientId, jdbcType=INTEGER},#{nickName, jdbcType=VARCHAR},#{chineseName, jdbcType=VARCHAR},#{fieldName, jdbcType=VARCHAR},#{fieldValue, jdbcType=VARCHAR},3,#{status, jdbcType=INTEGER},#{ipAddress, jdbcType=VARCHAR},#{createId, jdbcType=INTEGER},#{createName, jdbcType=VARCHAR},#{createTime, jdbcType=TIMESTAMP}),
+         (#{clientId, jdbcType=INTEGER},#{nickName, jdbcType=VARCHAR},#{chineseName, jdbcType=VARCHAR},#{fieldName, jdbcType=VARCHAR},#{fieldValue, jdbcType=VARCHAR},4,#{status, jdbcType=INTEGER},#{ipAddress, jdbcType=VARCHAR},#{createId, jdbcType=INTEGER},#{createName, jdbcType=VARCHAR},#{createTime, jdbcType=TIMESTAMP})
+
+    </insert>
+
+</mapper>
